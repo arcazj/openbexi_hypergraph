@@ -1,0 +1,104 @@
+{
+  "hypergraph": {
+    "name": "all_basic_tests",
+    "vertices": [
+      {
+        "id": 1,
+        "name": "hyper_vertice1",
+        "type": "rectangle",
+        "position": {"x": -3, "y": -2, "z": 0},
+        "size": {"width": 6, "height": 6},
+        "rendering": {
+          "color": "#912121",
+          "textColor": "#980505"
+        },
+        "attributes": [
+          {"name": "att1", "textColor": "#f80606"},
+          {"name": "att2"}
+        ],
+        "vertices": [
+          {
+            "id": 3,
+            "name": "vertice3",
+            "type": "rectangle",
+            "position": {"x": -1, "y": 0, "z": 0},
+            "size": {"width": 2, "height": 2},
+            "rendering": {
+              "color": "#aeebbe"
+            },
+            "attributes": [
+              {"name": "att1", "textColor": "#f80606"},
+              {"name": "att2", "wireframe": false},
+              {"name": "att3"}
+            ]
+          },
+          {
+            "id": 4,
+            "name": "vertice4",
+            "type": "rectangle",
+            "position": {"x": -1, "y": 0, "z": 0},
+            "size": {"width": 2, "height": 2},
+            "rendering": {
+              "color": "#069905"
+            },
+            "attributes": [
+              {"name": "att1", "textColor": "#f80606", "opacity": 0.6},
+              {"name": "att2"}
+            ]
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "name": "vertice2",
+        "type": "rectangle",
+        "position": {"x": -6, "y": 4, "z": 0},
+        "size": {"width": 2, "height": 2},
+        "rendering": {
+          "texture": "icons/ob_settings.png",
+          "color": "#d99d8d",
+          "wireframe": false,
+          "transparent": true,
+          "opacity": 0.6
+        }
+      },
+      {
+        "id": 5,
+        "name": "vertice5",
+        "type": "rectangle",
+        "attributes": [
+          {"name": "att1", "textColor": "#f80606", "opacity": 0.6},
+          {"name": "long_long_att2"},
+          {"name": "long_long_att3"},
+          {"name": "att4", "textColor": "#f80606", "opacity": 0.6},
+          {"name": "long_long_att5"},
+          {"name": "long_long_long_att9"}
+        ],
+        "position": {"x": 2, "y": 2, "z": 0},
+        "size": {"width": 2, "height": 2},
+        "rendering": {
+          "color": "#797df2",
+          "wireframe": false,
+          "transparent": true,
+          "opacity": 0.6
+        }
+      }
+    ],
+    "edges": [
+      {"ids": [1, 2], "text": "link1-->2", "type": "QuadraticBezierCurve", "controlPoint": {"x": 0, "y": 3, "z": 0}},
+      {
+        "ids": [2, 2],
+        "text": "link2-->2",
+        "type": "CubicBezierCurve",
+        "controlPoints": [{"x": 1, "y": 3, "z": 0}, {"x": -1, "y": -3, "z": 0}],
+        "rendering": {
+          "color": "#149a25",
+          "textColor": "#980505",
+          "wireframe": true,
+          "transparent": true,
+          "opacity": 0.8
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,106 @@
+{
+  "hypergraph": {
+    "name": "hypergraph",
+    "vertices": [
+      {
+        "id": 0,
+        "name": "vertex0",
+        "type": "rectangle",
+        "attributes": [
+          {"name": "Isolated Vertex"}
+        ],
+        "position": {"x": -5, "y": 4, "z": 0},
+        "size": {"width": 2, "height": 2},
+        "rendering": {
+          "color": "#48c76a",
+          "transparent": true,
+          "opacity": 0.7
+        }
+      },
+      {
+        "id": 1,
+        "name": "vertex1",
+        "type": "rectangle",
+        "position": {"x": 3, "y": 0, "z": 0},
+        "size": {"width": 2, "height": 2},
+        "rendering": {
+          "texture": "icons/ob_settings.png",
+          "color": "#48c76a",
+          "transparent": true,
+          "opacity": 0.7
+        }
+      },
+      {
+        "id": 2,
+        "name": "hyper_vertex1",
+        "type": "rectangle",
+        "position": {"x": -4, "y": -4, "z": 0},
+        "size": {"width": 6, "height": 6},
+        "rendering": {
+          "color": "#ccd9cf",
+          "textColor": "#980505"
+        },
+        "attributes": [
+          {"name": "Degree", "textColor": "#0d0d0d"},
+          {"name": "Neighbors"}
+        ],
+        "vertices": [
+          {
+            "id": 3,
+            "name": "vertex3",
+            "type": "rectangle",
+            "position": {"x": -1, "y": 0, "z": 0},
+            "size": {"width": 2, "height": 2},
+            "rendering": {"color": "#aeebbe"},
+            "attributes": [
+              {"name": "Weight", "textColor": "#f80606"},
+              {"name": "Wireframe", "value": true}
+            ]
+          },
+          {
+            "id": 4,
+            "name": "vertex4",
+            "type": "rectangle",
+            "position": {"x": -1, "y": 0, "z": 0},
+            "size": {"width": 2, "height": 2},
+            "rendering": {"color": "#069905"},
+            "attributes": [
+              {"name": "Weight", "textColor": "#f80606", "opacity": 0.6},
+              {"name": "Wireframe", "value": true}
+            ]
+          }
+        ]
+      },
+      {
+        "id": 5,
+        "name": "vertex5",
+        "type": "circle",
+        "position": {"x": -5, "y": -4, "z": 0},
+        "size": {"width": 2, "height": 2},
+        "rendering": {
+          "color": "#e4f296",
+          "transparent": true,
+          "opacity": 0.8
+        }
+      }
+    ],
+    "edges": [
+       {"ids": [2, 1], "text": "Connect to", "type": "QuadraticBezierCurve", "controlPoint": {"x": 0, "y": 3, "z": 0}},
+      {"ids": [2, 5], "text": "Connect to", "type": "Line", "controlPoint": {"x": 0, "y": 3, "z": 0}},
+      {"ids": [0, 5], "text": "Connect to", "type": "CatmullRomCurve", "controlPoint": {"x": 0, "y": 3, "z": 0}},
+       {
+        "ids": [1, 1],
+        "text": "Self-loop",
+        "type": "CubicBezierCurve",
+        "controlPoints": [{"x": 1, "y": 3, "z": 0}, {"x": -1, "y": -3, "z": 0}],
+        "rendering": {
+          "color": "#149a25",
+          "textColor": "#980505",
+          "wireframe": true,
+          "transparent": true,
+          "opacity": 0.8
+        }
+      }
+    ]
+  }
+}

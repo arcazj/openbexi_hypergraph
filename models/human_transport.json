@@ -1,0 +1,292 @@
+{
+  "hypergraph": {
+    "name": "Human_transport2",
+    "vertices": [
+      {
+        "id": 1,
+        "name": "Human",
+        "type": "rectangle",
+        "attributes": [],
+        "position": {
+          "x": 2.097748396882931,
+          "y": 6.877129737244017,
+          "z": 0
+        },
+        "size": {
+          "width": 2,
+          "height": 2
+        },
+        "rendering": {
+          "color": "rgb(145,33,33)",
+          "texture": "icons/ob_human.png",
+          "transparent": true,
+          "opacity": 1,
+          "textColor": "#050505"
+        }
+      },
+      {
+        "id": 2,
+        "name": "Person",
+        "type": "rectangle",
+        "attributes": [],
+        "position": {
+          "x": 3.2518119410439863,
+          "y": 3.0583129518171024,
+          "z": 0
+        },
+        "size": {
+          "width": 2,
+          "height": 2
+        },
+        "rendering": {
+          "color": "rgb(72,199,106)",
+          "transparent": true,
+          "opacity": 1,
+          "textColor": "#050505"
+        }
+      },
+      {
+        "id": 3,
+        "name": "Driver",
+        "type": "rectangle",
+        "attributes": [],
+        "position": {
+          "x": 9.35436978469717,
+          "y": 2.689103001471056,
+          "z": 0
+        },
+        "size": {
+          "width": 2,
+          "height": 2
+        },
+        "rendering": {
+          "color": "rgb(121,125,242)",
+          "transparent": true,
+          "opacity": 1,
+          "textColor": "#050505"
+        }
+      },
+      {
+        "id": 4,
+        "name": "Passenger",
+        "type": "rectangle",
+        "attributes": [],
+        "position": {
+          "x": -3.9638279071025257,
+          "y": 2.612552651667669,
+          "z": 0
+        },
+        "size": {
+          "width": 2,
+          "height": 2
+        },
+        "rendering": {
+          "color": "rgb(72,199,106)",
+          "transparent": true,
+          "opacity": 1,
+          "textColor": "#050505"
+        }
+      },
+      {
+        "id": 5,
+        "name": "Car",
+        "type": "circle",
+        "position": {
+          "x": -0.07498245840781276,
+          "y": -3.933363863593174,
+          "z": 0
+        },
+        "size": {
+          "width": 2,
+          "height": 2
+        },
+        "rendering": {
+          "color": "rgb(231,215,112)",
+          "texture": "icons/ob_car.png",
+          "transparent": true,
+          "opacity": 1,
+          "textColor": "#050505"
+        }
+      },
+      {
+        "id": 6,
+        "name": "Bus",
+        "type": "circle",
+        "position": {
+          "x": 5.372425895914108,
+          "y": -3.8023862819574936,
+          "z": 0
+        },
+        "size": {
+          "width": 2,
+          "height": 2
+        },
+        "rendering": {
+          "color": "rgb(72,199,106)",
+          "texture": "icons/ob_bus.png",
+          "transparent": true,
+          "opacity": 1,
+          "textColor": "#050505"
+        }
+      }
+    ],
+    "edges": [
+      {
+        "ids": [
+          1,
+          2
+        ],
+        "text": "IsA",
+        "type": "CubicBezierCurve",
+        "controlPoints": [
+          {
+            "x": 1,
+            "y": 3,
+            "z": 0
+          },
+          {
+            "x": -1,
+            "y": -3,
+            "z": 0
+          }
+        ],
+        "rendering": {
+          "color": "#549a25",
+          "textColor": "#980505",
+          "wireframe": true,
+          "transparent": true,
+          "opacity": 0.8
+        }
+      },
+      {
+        "ids": [
+          2,
+          3
+        ],
+        "text": "IsA",
+        "type": "CubicBezierCurve",
+        "controlPoints": [
+          {
+            "x": 1,
+            "y": 3,
+            "z": 0
+          },
+          {
+            "x": -1,
+            "y": -3,
+            "z": 0
+          }
+        ],
+        "rendering": {
+          "color": "#549a25",
+          "textColor": "#980505",
+          "wireframe": true,
+          "transparent": true,
+          "opacity": 0.8
+        }
+      },
+      {
+        "ids": [
+          2,
+          4
+        ],
+        "text": "IsA",
+        "type": "CatmullRomCurve",
+        "controlPoints": [],
+        "rendering": {
+          "color": "#549a25",
+          "textColor": "#980505",
+          "wireframe": true,
+          "transparent": true,
+          "opacity": 0.8
+        }
+      },
+      {
+        "ids": [
+          3,
+          5
+        ],
+        "text": "Operates",
+        "type": "CubicBezierCurve",
+        "controlPoints": [
+          {
+            "x": 1,
+            "y": 3,
+            "z": 0
+          },
+          {
+            "x": -1,
+            "y": -3,
+            "z": 0
+          }
+        ],
+        "rendering": {
+          "color": "#f80606",
+          "textColor": "#980505",
+          "wireframe": true,
+          "transparent": true,
+          "opacity": 0.8
+        }
+      },
+      {
+        "ids": [
+          3,
+          6
+        ],
+        "text": "Operates",
+        "type": "CatmullRomCurve",
+        "controlPoints": [],
+        "rendering": {
+          "color": "#549a25",
+          "textColor": "#980505",
+          "wireframe": true,
+          "transparent": true,
+          "opacity": 0.8
+        }
+      },
+      {
+        "ids": [
+          4,
+          5
+        ],
+        "text": "RidesIn",
+        "type": "CubicBezierCurve",
+        "controlPoints": [
+          {
+            "x": 1,
+            "y": 3,
+            "z": 0
+          },
+          {
+            "x": -1,
+            "y": -3,
+            "z": 0
+          }
+        ],
+        "rendering": {
+          "color": "#549a25",
+          "textColor": "#980505",
+          "wireframe": true,
+          "transparent": true,
+          "opacity": 0.8
+        }
+      },
+      {
+        "ids": [
+          4,
+          6
+        ],
+        "text": "RidesIn",
+        "type": "Line",
+        "controlPoints": [],
+        "rendering": {
+          "color": "#549a25",
+          "textColor": "#980505",
+          "wireframe": true,
+          "transparent": true,
+          "opacity": 0.8
+        }
+      }
+    ]
+  }
+}

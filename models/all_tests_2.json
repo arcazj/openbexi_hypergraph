@@ -1,0 +1,296 @@
+{
+  "hypergraph": {
+    "name": "all_tests",
+    "vertices": [
+      {
+        "id": 1,
+        "name": "hyper_vertice1",
+        "type": "rectangle",
+        "position": {"x": -3, "y": -2, "z": 0},
+        "size": {"width": 6, "height": 6},
+        "rendering": {
+          "color": "#912121",
+          "textColor": "#980505"
+        },
+        "attributes": [
+          {"name": "att1", "textColor": "#f80606"},
+          {"name": "att2", "wireframe": false},
+          {"name": "att3"},
+          {"name": "att4"}
+        ],
+        "vertices": [
+          {
+            "id": 3,
+            "name": "vertice3",
+            "type": "rectangle",
+            "position": {"x": -1, "y": 0, "z": 0},
+            "size": {"width": 2, "height": 2},
+            "rendering": {
+              "color": "#aeebbe"
+            },
+            "attributes": [
+              {"name": "att1", "textColor": "#f80606"},
+              {"name": "att2"},
+              {"name": "att3"}
+            ]
+          },
+          {
+            "id": 4,
+            "name": "vertice4",
+            "type": "rectangle",
+            "position": {"x": -1, "y": 0, "z": 0},
+            "size": {"width": 2, "height": 2},
+            "rendering": {
+              "color": "#069905"
+            },
+            "attributes": [
+              {"name": "att1", "textColor": "#f80606", "opacity": 0.6},
+              {"name": "att2"}
+            ]
+          },
+          {
+            "id": 6,
+            "name": "vertice6",
+            "type": "rectangle",
+            "position": {"x": -1, "y": 0, "z": 0},
+            "size": {"width": 2, "height": 2},
+            "rendering": {
+              "color": "#e35be1"
+            },
+            "attributes": [
+              {"name": "att1", "textColor": "#f80606", "opacity": 0.6},
+              {"name": "att2"}
+            ]
+          },
+          {
+            "id": 7,
+            "name": "vertice7",
+            "type": "rectangle",
+            "position": {"x": -1, "y": 0, "z": 0},
+            "size": {"width": 2, "height": 2},
+            "rendering": {
+              "color": "#eaed24",
+              "texture": "icons/ob_swap.png"
+            },
+            "attributes": [
+              {"name": "att1", "textColor": "#f80606", "opacity": 0.6},
+              {"name": "att2"}
+            ]
+          },{
+            "id": 10,
+            "name": "vertice10",
+            "type": "rectangle",
+            "position": {"x": -1, "y": 0, "z": 0},
+            "size": {"width": 2, "height": 2},
+            "rendering": {
+              "color": "#86ebce"
+            },
+            "attributes": [
+              {"name": "att1", "textColor": "#f80606", "opacity": 0.6},
+              {"name": "att2"}
+            ]
+          },{
+            "id": 11,
+            "name": "vertice11",
+            "type": "rectangle",
+            "position": {"x": -1, "y": 0, "z": 0},
+            "size": {"width": 2, "height": 2},
+            "rendering": {
+              "color": "#86ebce"
+            },
+            "attributes": [
+              {"name": "att1", "textColor": "#f80606", "opacity": 0.6},
+              {"name": "att2"}
+            ]
+          },
+          {
+            "id":8,
+            "name": "vertice8",
+            "type": "rectangle",
+            "position": {"x": -1, "y": 0, "z": 0},
+            "size": {"width": 2, "height": 2},
+            "rendering": {
+              "color": "#0dd99e"
+            },
+            "attributes": [
+              {"name": "att1", "textColor": "#f80606", "opacity": 0.6},
+              {"name": "att2"}
+            ]
+          },
+          {
+            "id": 13,
+            "name": "vertice27",
+            "type": "rectangle",
+            "position": {"x": -1, "y": 0, "z": 0},
+            "size": {"width": 2, "height": 2},
+            "rendering": {
+              "color": "#c6d197",
+              "texture": "icons/ob_settings.png"
+            },
+            "attributes": [
+              {"name": "att1", "textColor": "#f80606", "opacity": 0.6},
+              {"name": "att2"}
+            ]
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "name": "vertice2",
+        "type": "rectangle",
+        "position": {"x": -6, "y": 4, "z": 0},
+        "size": {"width": 2, "height": 2},
+        "rendering": {
+          "texture": "icons/ob_settings.png",
+          "color": "#d99d8d",
+          "wireframe": false,
+          "transparent": true,
+          "opacity": 0.6
+        },
+        "attributes": [
+          {"name": "att1", "textColor": "#f80606"},
+          {"name": "att2"}
+        ]
+      },
+      {
+        "id": 5,
+        "name": "vertice5",
+        "type": "rectangle",
+        "attributes": [
+          {"name": "att1", "textColor": "#f80606", "opacity": 0.6},
+          {"name": "long_long_att2"},
+          {"name": "long_long_att3"},
+          {"name": "att4", "textColor": "#f80606", "opacity": 0.6},
+          {"name": "long_long_att5"},
+          {"name": "long_att6"},
+          {"name": "long_att7"},
+          {"name": "long_att8"},
+          {"name": "long_long_long_att9"}
+        ],
+        "position": {"x": 2, "y": 2, "z": 0},
+        "size": {"width": 2, "height": 2},
+        "rendering": {
+          "color": "#797df2",
+          "wireframe": false,
+          "transparent": true,
+          "opacity": 0.6
+        }
+      },
+      {
+        "id": 61,
+        "name": "vertice61",
+        "type": "rectangle",
+        "attributes": [
+          {"name": "att1", "textColor": "#055905", "opacity": 0.6},
+          {"name": "att2"},
+          {"name": "att3"},
+          {"name": "att4", "textColor": "#f80606", "opacity": 0.6}
+        ],
+        "position": {"x": -6, "y": 0, "z": 0},
+        "size": {"width": 2, "height": 2},
+        "rendering": {
+          "color": "#f7faf7",
+          "wireframe": false,
+          "transparent": true,
+          "opacity": 0.6
+        }
+      },
+      {
+        "id": 55,
+        "name": "vertice55",
+        "type": "rectangle",
+        "position": {"x": 2, "y": 2, "z": 0},
+        "size": {"width": 2, "height": 2},
+        "rendering": {
+          "color": "#f09b5b",
+          "wireframe": false,
+          "transparent": true,
+          "opacity": 0.6,
+          "texture": "icons/ob_view_black.png"
+        }
+      },
+      {
+        "id": 21,
+        "name": "hyper_vertice21",
+        "type": "rectangle",
+        "position": {"x": 6, "y": -3, "z": 0},
+        "size": {"width": 2, "height": 6},
+        "rendering": {
+          "color": "#f2faf4",
+          "textColor": "#141715",
+          "texture": "icons/ob_view.png"
+        },
+        "attributes": [
+          {"name": "att1", "textColor": "#f80606"},
+          {"name": "att2", "wireframe": false},
+          {"name": "att3"},
+          {"name": "att4"}
+        ],
+        "vertices": [
+          {
+            "id": 23,
+            "name": "vertice21",
+            "type": "rectangle",
+            "position": {"x": -1, "y": 0, "z": 0},
+            "size": {"width": 3, "height": 2},
+            "rendering": {
+              "color": "#aeebbe"
+            },
+            "attributes": [
+              {"name": "att1", "textColor": "#f80606"},
+              {"name": "att2"},
+              {"name": "att3"}
+            ]
+          },
+          {
+            "id": 24,
+            "name": "vertice24",
+            "type": "rectangle",
+            "position": {"x": -1, "y": 0, "z": 0},
+            "size": {"width": 2, "height": 2},
+            "rendering": {
+              "color": "#9dbef5"
+            },
+            "attributes": [
+              {"name": "att1", "textColor": "#f80606", "opacity": 0.6},
+              {"name": "att2"}
+            ]
+          },
+          {
+            "id": 27,
+            "name": "vertice27",
+            "type": "rectangle",
+            "position": {"x": -1, "y": 0, "z": 0},
+            "size": {"width": 2, "height": 2},
+            "rendering": {
+              "color": "#c6d197",
+              "texture": "icons/ob_settings.png"
+            },
+            "attributes": [
+              {"name": "att1", "textColor": "#f80606", "opacity": 0.6},
+              {"name": "att2"}
+            ]
+          }
+        ]
+      }
+    ],
+    "edges": [
+      {"ids": [1, 2], "text": "link1-->2", "type": "QuadraticBezierCurve", "controlPoint": {"x": 0, "y": 3, "z": 0}},
+      {"ids": [2, 21], "text": "link2-->21", "type": "QuadraticBezierCurve", "controlPoint": {"x": 0, "y": 3, "z": 0}},
+      {"ids": [5, 21], "text": "link5-->21", "type": "QuadraticBezierCurve", "controlPoint": {"x": 0, "y": 3, "z": 0}},
+      {
+        "ids": [2, 2],
+        "text": "link2-->2",
+        "type": "CubicBezierCurve",
+        "controlPoints": [{"x": 1, "y": 3, "z": 0}, {"x": -1, "y": -3, "z": 0}],
+        "rendering": {
+          "color": "#149a25",
+          "textColor": "#980505",
+          "wireframe": true,
+          "transparent": true,
+          "opacity": 0.8
+        }
+      }
+    ]
+  }
+}

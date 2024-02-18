@@ -1,0 +1,9 @@
+{
+  "startup configuration": [
+    {
+      "-type": "json file",
+      "-data_path": "/model/",
+      "-connector": "secure_sse:8449"
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "name": "openbexi_hypergraph",
+  "version": "1.0.0",
+  "dependencies": {
+    "three": "latest",
+    "three-spritetext": "latest"
+  }
+}

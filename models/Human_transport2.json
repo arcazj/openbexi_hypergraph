@@ -1,0 +1,213 @@
+{
+  "hypergraph": {
+    "name": "Human_transport2",
+    "vertices": [
+      {
+        "id": 1,
+        "name": "Human",
+        "type": "rectangle",
+        "attributes": [
+          {"name": "name", "textColor": "#f80606", "opacity": 0.6},
+          {"name": "age"}
+        ],
+        "position": {
+          "x": 0,
+          "y": 5,
+          "z": 0
+        },
+        "size": {
+          "width": 2,
+          "height": 2
+        },
+        "rendering": {
+          "texture": "icons/ob_human.png",
+          "color": "#912121",
+          "textColor": "#050505"
+        }
+      },
+      {
+        "id": 2,
+        "name": "Person",
+        "type": "rectangle",
+        "position": {
+          "x": 7,
+          "y": -1,
+          "z": 0
+        },
+        "size": {
+          "width": 2,
+          "height": 2
+        },
+        "rendering": {
+          "color": "#48c76a",
+          "textColor": "#050505"
+        }
+      },
+      {
+        "id": 3,
+        "name": "Driver",
+        "type": "rectangle",
+        "attributes": [],
+        "position": {
+          "x": -7,
+          "y":-1,
+          "z": 0
+        },
+        "size": {
+          "width": 2,
+          "height": 2
+        },
+        "rendering": {
+          "color": "#797df2",
+          "textColor": "#050505"
+        }
+      },
+      {
+        "id": 4,
+        "name": "Passenger",
+        "type": "rectangle",
+        "attributes": [],
+        "position": {
+          "x": 0,
+          "y": -1,
+          "z": 0
+        },
+        "size": {
+          "width": 2,
+          "height": 2
+        },
+        "rendering": {
+          "color": "#48c76a",
+          "textColor": "#050505"
+        }
+      },
+      {
+        "id": 5,
+        "name": "Car",
+        "type": "circle",
+        "position": {
+          "x": -8,
+          "y": -7,
+          "z": 0
+        },
+        "size": {
+          "width": 2,
+          "height": 2
+        },
+        "rendering": {
+          "texture": "icons/ob_car.png",
+          "textColor": "#050505"
+        }
+      },
+      {
+        "id": 6,
+        "name": "Bus",
+        "type": "circle",
+        "position": {
+          "x": 6,
+          "y": -7,
+          "z": 0
+        },
+        "size": {
+          "width": 2,
+          "height": 2
+        },
+        "rendering": {
+          "texture": "icons/ob_bus.png",
+          "color": "#48c76a",
+          "textColor": "#050505"
+        }
+      }
+    ],
+    "edges": [
+      {
+        "ids": [
+          1,
+          2
+        ],
+        "text": "IsA",
+        "type": "CubicBezierCurve",
+        "controlPoints": [{ "x": 1, "y": 3, "z": 0 }, { "x": -1, "y": -3, "z": 0 }],
+        "rendering": {
+          "color": "#549a25",
+          "textColor": "#980505",
+          "wireframe": true,
+          "transparent": true,
+          "opacity": 0.8
+        }
+      },
+      {
+        "ids": [
+          2,
+          3
+        ],
+        "text": "IsA",
+        "type": "CubicBezierCurve",
+        "controlPoints": [{ "x": 1, "y": 3, "z": 0 }, { "x": -1, "y": -3, "z": 0 }],
+        "rendering": {
+          "color": "#549a25",
+          "textColor": "#980505",
+          "wireframe": true,
+          "transparent": true,
+          "opacity": 0.8
+        }
+      },
+      {
+        "ids": [
+          2,
+          4
+        ],
+        "text": "IsA",
+        "type": "CatmullRomCurve"
+      },
+      {
+        "ids": [
+          3,
+          5
+        ],
+        "text": "Operates",
+        "type": "CubicBezierCurve",
+        "controlPoints": [{ "x": 1, "y": 3, "z": 0 }, { "x": -1, "y": -3, "z": 0 }],
+        "rendering": {
+          "color": "#f80606",
+          "textColor": "#980505",
+          "wireframe": true,
+          "transparent": true,
+          "opacity": 0.8
+        }
+      },
+      {
+        "ids": [
+          3,
+          6
+        ],
+        "text": "Operates",
+        "type": "CatmullRomCurve"
+      },
+      {
+        "ids": [
+          4,
+          5
+        ],
+        "text": "RidesIn",
+        "type": "CubicBezierCurve",
+        "controlPoints": [{ "x": 1, "y": 3, "z": 0 }, { "x": -1, "y": -3, "z": 0 }],
+        "rendering": {
+          "color": "#549a25",
+          "textColor": "#980505",
+          "wireframe": true,
+          "transparent": true,
+          "opacity": 0.8
+        }
+      },
+      {
+        "ids": [
+          4,
+          6
+        ],
+        "text": "RidesIn",
+        "type": "Line"
+      }
+    ]
+  }
+}

@@ -1,0 +1,170 @@
+#menu {
+    position: absolute;
+    top: 10px;
+    left: 10px;
+    z-index: 1000;
+    display: flex;
+    flex-direction: column;
+    background-color: rgba(255, 255, 255, 0.9);
+    padding: 10px;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+#saveOption, #loadOption,#gridOption {
+    display: flex;
+    align-items: center; /* Align items vertically in the center */
+    margin-bottom: 10px;
+}
+
+#showGrid {
+    width: 18px;
+    height: 18px;
+    margin-right: 10px;
+    align-self: center; /* Align self for perfect vertical alignment */
+}
+
+#menu {
+    position: absolute;
+    top: 10px;
+    left: 10px;
+    z-index: 1000;
+    display: flex;
+    flex-direction: column;
+    background-color: rgba(255, 255, 255, 0.9);
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+    backdrop-filter: blur(10px); /* For glassmorphism effect */
+    border: 1px solid rgba(255, 255, 255, 0.75); /* Light border for depth */
+}
+
+#saveOption, #loadOption, #gridOption {
+    display: flex;
+    align-items: center; /* Align items vertically in the center */
+    margin-bottom: 10px;
+    background-color: #f2f2f2;
+    padding: 8px;
+    border-radius: 6px;
+    transition: background-color 0.3s ease-in-out;
+}
+
+#saveOption:hover, #loadOption:hover, #gridOption:hover {
+    background-color: #e6e6e6; /* Light hover effect for options */
+}
+
+#showGrid {
+    width: 18px;
+    height: 18px;
+    margin-right: 10px;
+}
+
+#hypergrah_name, #hypergrah_underline, #hypergrah_underline2 {
+    font-weight: bold;
+    color: #2574a6;
+    text-align: center; /* Center align the text */
+    margin-bottom: 10px; /* Add space below the name and underlines */
+}
+
+#saveIcon, #loadIcon {
+    cursor: pointer;
+    width: 24px;
+    height: 24px;
+    margin-right: 10px;
+}
+
+#saveIconLabel, #loadIconLabel, label[for="showGrid"] {
+    font-weight: bold;
+    color: #21363a;
+    user-select: none; /* Prevent text selection */
+}
+
+/* Container adjustments for visual balance */
+#container {
+    padding-left: 50px; /* Adjust as needed */
+}
+
+/* Sophisticated styling for the icons */
+#saveIcon, #loadIcon {
+    filter: drop-shadow(0 2px 2px rgba(0, 0, 0, 0.25)); /* Add shadow to icons */
+    transition: transform 0.2s ease-in-out;
+}
+
+#saveIcon:hover, #loadIcon:hover {
+    transform: scale(1.1); /* Slightly enlarge icons on hover */
+}
+
+/* Add some sophistication to checkbox */
+#showGrid {
+    accent-color: #2574a6; /* Change the color of the checkbox */
+}
+
+/* Sophisticated Dropdown Style */
+/* Sophisticated Dropdown Style */
+#modelDropdown {
+    display: block; /* Ensure the dropdown is always visible */
+    width: 90%; /* Adjust as necessary for your layout */
+    margin: 10px auto 20px; /* Centered with space at the bottom */
+    padding: 8px 10px;
+    font-size: 1rem;
+    font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    line-height: 1.6;
+    color: #333;
+    background-color: #ffffff;
+    background-image: linear-gradient(145deg, #fafafa 25%, #f4f4f4 100%);
+    border: 1px solid #ccc;
+    border-radius: 6px;
+    box-shadow: 0 2px 6px rgba(0, 0, 0, 0.2);
+    appearance: none; /* Remove native styling */
+    background-clip: padding-box; /* Prevent background color from leaking outside the border */
+    position: relative;
+    z-index: 1;
+    transition: all 0.3s ease-in-out;
+    cursor: pointer; /* Indicate the dropdown is clickable */
+}
+
+/* Dropdown arrow, uses a pseudo-element */
+#modelDropdown::after {
+    content: '';
+    position: absolute;
+    right: 15px;
+    top: 50%;
+    transform: translateY(-50%);
+    width: 0;
+    height: 0;
+    border-left: 5px solid transparent;
+    border-right: 5px solid transparent;
+    border-top: 5px solid #333; /* Arrow color */
+    pointer-events: none; /* Ignore this element when clicking */
+    transition: border-top-color 0.3s ease-in-out;
+}
+
+/* Hover style for the dropdown */
+#modelDropdown:hover {
+    border-color: #bbb;
+    background-image: linear-gradient(145deg, #f7f7f7 25%, #e7e7e7 100%);
+}
+
+/* Focus style for the dropdown */
+#modelDropdown:focus {
+    outline: none; /* Remove the focus outline */
+    border-color: #999;
+    box-shadow: 0 0 0 4px rgba(81, 203, 238, 0.3); /* Glow effect */
+}
+
+/* Option styling */
+#modelDropdown option {
+    font-weight: normal;
+    background: #fff; /* White background for options */
+    color: #333; /* Text color for options */
+}
+
+/* Fix for browsers that don't support custom appearance */
+#modelDropdown::-ms-expand {
+    display: none; /* Remove default arrow in IE and Edge */
+}
+
+/* Ensure the dropdown is not accidentally hidden */
+#modelDropdown {
+    display: block !important; /* Override any other style that might hide it */
+}

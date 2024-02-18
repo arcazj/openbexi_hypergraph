@@ -1,0 +1,1245 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="51ed2380-ce71-40b5-9fcd-90bf73480546" name="Changes" comment="test">
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/ob_hypergraph.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/etc/ob_startup_conf.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/icons/ob_2d.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/icons/ob_2d_black.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/icons/ob_3d.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/icons/ob_3d_black.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/icons/ob_RX.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/icons/ob_add.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/icons/ob_antenna.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/icons/ob_beams.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/icons/ob_blue_square.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/icons/ob_bug.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/icons/ob_bus.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/icons/ob_calendar.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/icons/ob_calendar_black.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/icons/ob_cancel.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/icons/ob_car.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/icons/ob_check_aborted.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/icons/ob_check_failed.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/icons/ob_check_ok.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/icons/ob_check_warning.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/icons/ob_clock.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/icons/ob_clone.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/icons/ob_close.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/icons/ob_close_black.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/icons/ob_conflict.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/icons/ob_connect.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/icons/ob_crontab.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/icons/ob_delete.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/icons/ob_edit.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/icons/ob_edit_black.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/icons/ob_error.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/icons/ob_filter.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/icons/ob_filter_black.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/icons/ob_gate_close.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/icons/ob_gate_open.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/icons/ob_green_flag.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/icons/ob_green_square.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/icons/ob_help.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/icons/ob_help_black.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/icons/ob_human.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/icons/ob_info.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/icons/ob_info2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/icons/ob_load.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/icons/ob_loading.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/icons/ob_lost_connection.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/icons/ob_marker.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/icons/ob_no_connect.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/icons/ob_no_view.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/icons/ob_orange_flag.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/icons/ob_orange_square.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/icons/ob_phone.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/icons/ob_purple_square.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/icons/ob_red_flag.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/icons/ob_red_square.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/icons/ob_resize.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/icons/ob_satellite.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/icons/ob_save.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/icons/ob_search.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/icons/ob_search_black.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/icons/ob_settings.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/icons/ob_settings_black.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/icons/ob_start.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/icons/ob_stop.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/icons/ob_swap.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/icons/ob_sync.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/icons/ob_sync_black.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/icons/ob_view.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/icons/ob_view_black.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/icons/ob_warning.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/icons/ob_yellow_blink.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/icons/ob_yellow_flag.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/icons/ob_yellow_ring.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/icons/ob_yellow_square.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/models/Human_transport2.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/models/all_tests_2.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/models/basic_cases.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/models/human_transport.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/models/hypergraph.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/models/test.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/.package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three-spritetext/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three-spritetext/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three-spritetext/dist/three-spritetext.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three-spritetext/dist/three-spritetext.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three-spritetext/dist/three-spritetext.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three-spritetext/dist/three-spritetext.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three-spritetext/dist/three-spritetext.mjs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three-spritetext/example/basic/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three-spritetext/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/build/three.cjs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/build/three.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/build/three.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/build/three.module.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/build/three.module.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/fonts/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/fonts/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/fonts/droid/NOTICE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/fonts/droid/README.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/fonts/droid/droid_sans_bold.typeface.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/fonts/droid/droid_sans_mono_regular.typeface.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/fonts/droid/droid_sans_regular.typeface.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/fonts/droid/droid_serif_bold.typeface.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/fonts/droid/droid_serif_regular.typeface.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/fonts/gentilis_bold.typeface.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/fonts/gentilis_regular.typeface.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/fonts/helvetiker_bold.typeface.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/fonts/helvetiker_regular.typeface.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/fonts/optimer_bold.typeface.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/fonts/optimer_regular.typeface.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/fonts/ttf/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/fonts/ttf/kenpixel.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/Addons.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/animation/AnimationClipCreator.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/animation/CCDIKSolver.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/animation/MMDAnimationHelper.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/animation/MMDPhysics.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/cameras/CinematicCamera.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/capabilities/WebGL.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/capabilities/WebGPU.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/controls/ArcballControls.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/controls/DragControls.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/controls/FirstPersonControls.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/controls/FlyControls.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/controls/MapControls.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/controls/OrbitControls.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/controls/PointerLockControls.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/controls/TrackballControls.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/controls/TransformControls.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/csm/CSM.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/csm/CSMFrustum.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/csm/CSMHelper.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/csm/CSMShader.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/curves/CurveExtras.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/curves/NURBSCurve.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/curves/NURBSSurface.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/curves/NURBSUtils.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/effects/AnaglyphEffect.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/effects/AsciiEffect.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/effects/OutlineEffect.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/effects/ParallaxBarrierEffect.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/effects/PeppersGhostEffect.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/effects/StereoEffect.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/environments/DebugEnvironment.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/environments/RoomEnvironment.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/exporters/DRACOExporter.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/exporters/EXRExporter.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/exporters/GLTFExporter.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/exporters/KTX2Exporter.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/exporters/MMDExporter.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/exporters/OBJExporter.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/exporters/PLYExporter.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/exporters/STLExporter.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/exporters/USDZExporter.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/geometries/BoxLineGeometry.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/geometries/ConvexGeometry.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/geometries/DecalGeometry.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/geometries/InstancedPointsGeometry.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/geometries/ParametricGeometries.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/geometries/ParametricGeometry.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/geometries/RoundedBoxGeometry.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/geometries/SDFGeometryGenerator.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/geometries/TeapotGeometry.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/geometries/TextGeometry.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/helpers/LightProbeHelper.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/helpers/OctreeHelper.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/helpers/PositionalAudioHelper.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/helpers/RectAreaLightHelper.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/helpers/TextureHelper.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/helpers/VertexNormalsHelper.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/helpers/VertexTangentsHelper.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/helpers/ViewHelper.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/interactive/HTMLMesh.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/interactive/InteractiveGroup.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/interactive/SelectionBox.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/interactive/SelectionHelper.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/libs/ammo.wasm.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/libs/ammo.wasm.wasm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/libs/basis/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/libs/basis/basis_transcoder.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/libs/basis/basis_transcoder.wasm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/libs/chevrotain.module.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/libs/draco/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/libs/draco/draco_decoder.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/libs/draco/draco_decoder.wasm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/libs/draco/draco_encoder.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/libs/draco/draco_wasm_wrapper.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/libs/draco/gltf/draco_decoder.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/libs/draco/gltf/draco_decoder.wasm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/libs/draco/gltf/draco_encoder.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/libs/draco/gltf/draco_wasm_wrapper.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/libs/ecsy.module.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/libs/fflate.module.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/libs/ktx-parse.module.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/libs/lil-gui.module.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/libs/lottie_canvas.module.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/libs/meshopt_decoder.module.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/libs/mikktspace.module.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/libs/mmdparser.module.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/libs/motion-controllers.module.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/libs/opentype.module.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/libs/potpack.module.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/libs/rhino3dm/rhino3dm.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/libs/rhino3dm/rhino3dm.module.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/libs/rhino3dm/rhino3dm.wasm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/libs/stats.module.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/libs/surfaceNet.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/libs/tween.module.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/libs/utif.module.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/libs/zstddec.module.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/lights/IESSpotLight.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/lights/LightProbeGenerator.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/lights/RectAreaLightUniformsLib.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/lines/Line2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/lines/LineGeometry.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/lines/LineMaterial.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/lines/LineSegments2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/lines/LineSegmentsGeometry.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/lines/Wireframe.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/lines/WireframeGeometry2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/loaders/3DMLoader.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/loaders/3MFLoader.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/loaders/AMFLoader.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/loaders/BVHLoader.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/loaders/ColladaLoader.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/loaders/DDSLoader.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/loaders/DRACOLoader.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/loaders/EXRLoader.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/loaders/FBXLoader.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/loaders/FontLoader.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/loaders/GCodeLoader.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/loaders/GLTFLoader.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/loaders/HDRCubeTextureLoader.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/loaders/IESLoader.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/loaders/KMZLoader.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/loaders/KTX2Loader.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/loaders/KTXLoader.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/loaders/LDrawLoader.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/loaders/LUT3dlLoader.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/loaders/LUTCubeLoader.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/loaders/LUTImageLoader.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/loaders/LWOLoader.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/loaders/LogLuvLoader.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/loaders/LottieLoader.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/loaders/MD2Loader.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/loaders/MDDLoader.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/loaders/MMDLoader.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/loaders/MTLLoader.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/loaders/MaterialXLoader.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/loaders/NRRDLoader.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/loaders/OBJLoader.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/loaders/PCDLoader.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/loaders/PDBLoader.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/loaders/PLYLoader.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/loaders/PVRLoader.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/loaders/RGBELoader.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/loaders/RGBMLoader.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/loaders/STLLoader.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/loaders/SVGLoader.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/loaders/TDSLoader.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/loaders/TGALoader.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/loaders/TIFFLoader.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/loaders/TTFLoader.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/loaders/TiltLoader.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/loaders/USDZLoader.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/loaders/VOXLoader.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/loaders/VRMLLoader.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/loaders/VTKLoader.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/loaders/XYZLoader.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/loaders/lwo/IFFParser.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/loaders/lwo/LWO2Parser.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/loaders/lwo/LWO3Parser.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/materials/MeshGouraudMaterial.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/math/Capsule.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/math/ColorConverter.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/math/ConvexHull.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/math/ImprovedNoise.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/math/Lut.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/math/MeshSurfaceSampler.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/math/OBB.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/math/Octree.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/math/SimplexNoise.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/misc/ConvexObjectBreaker.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/misc/GPUComputationRenderer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/misc/Gyroscope.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/misc/MD2Character.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/misc/MD2CharacterComplex.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/misc/MorphAnimMesh.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/misc/MorphBlendMesh.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/misc/ProgressiveLightMap.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/misc/RollerCoaster.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/misc/TubePainter.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/misc/Volume.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/misc/VolumeSlice.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/modifiers/CurveModifier.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/modifiers/EdgeSplitModifier.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/modifiers/SimplifyModifier.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/modifiers/TessellateModifier.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/nodes/Nodes.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/nodes/accessors/BitangentNode.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/nodes/accessors/BufferAttributeNode.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/nodes/accessors/BufferNode.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/nodes/accessors/CameraNode.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/nodes/accessors/CubeTextureNode.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/nodes/accessors/InstanceNode.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/nodes/accessors/InstancedPointsMaterialNode.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/nodes/accessors/MaterialNode.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/nodes/accessors/MaterialReferenceNode.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/nodes/accessors/ModelNode.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/nodes/accessors/ModelViewProjectionNode.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/nodes/accessors/MorphNode.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/nodes/accessors/NormalNode.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/nodes/accessors/Object3DNode.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/nodes/accessors/PointUVNode.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/nodes/accessors/PositionNode.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/nodes/accessors/ReferenceNode.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/nodes/accessors/ReflectVectorNode.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/nodes/accessors/SceneNode.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/nodes/accessors/SkinningNode.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/nodes/accessors/StorageBufferNode.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/nodes/accessors/TangentNode.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/nodes/accessors/TextureBicubicNode.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/nodes/accessors/TextureNode.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/nodes/accessors/TextureSizeNode.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/nodes/accessors/TextureStoreNode.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/nodes/accessors/UVNode.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/nodes/accessors/UserDataNode.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/nodes/code/CodeNode.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/nodes/code/ExpressionNode.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/nodes/code/FunctionCallNode.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/nodes/code/FunctionNode.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/nodes/code/ScriptableNode.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/nodes/code/ScriptableValueNode.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/nodes/core/ArrayUniformNode.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/nodes/core/AssignNode.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/nodes/core/AttributeNode.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/nodes/core/BypassNode.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/nodes/core/CacheNode.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/nodes/core/ConstNode.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/nodes/core/ContextNode.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/nodes/core/IndexNode.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/nodes/core/InputNode.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/nodes/core/LightingModel.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/nodes/core/Node.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/nodes/core/NodeAttribute.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/nodes/core/NodeBuilder.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/nodes/core/NodeCache.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/nodes/core/NodeCode.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/nodes/core/NodeFrame.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/nodes/core/NodeFunction.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/nodes/core/NodeFunctionInput.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/nodes/core/NodeKeywords.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/nodes/core/NodeParser.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/nodes/core/NodeUniform.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/nodes/core/NodeUtils.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/nodes/core/NodeVar.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/nodes/core/NodeVarying.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/nodes/core/OutputStructNode.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/nodes/core/ParameterNode.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/nodes/core/PropertyNode.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/nodes/core/StackNode.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/nodes/core/StructTypeNode.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/nodes/core/TempNode.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/nodes/core/UniformGroup.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/nodes/core/UniformGroupNode.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/nodes/core/UniformNode.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/nodes/core/VarNode.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/nodes/core/VaryingNode.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/nodes/core/constants.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/nodes/display/BlendModeNode.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/nodes/display/BumpMapNode.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/nodes/display/ColorAdjustmentNode.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/nodes/display/ColorSpaceNode.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/nodes/display/FrontFacingNode.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/nodes/display/NormalMapNode.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/nodes/display/PosterizeNode.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/nodes/display/ToneMappingNode.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/nodes/display/ViewportDepthNode.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/nodes/display/ViewportDepthTextureNode.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/nodes/display/ViewportNode.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/nodes/display/ViewportSharedTextureNode.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/nodes/display/ViewportTextureNode.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/nodes/fog/FogExp2Node.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/nodes/fog/FogNode.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/nodes/fog/FogRangeNode.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/nodes/functions/BSDF/BRDF_GGX.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/nodes/functions/BSDF/BRDF_Lambert.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/nodes/functions/BSDF/BRDF_Sheen.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/nodes/functions/BSDF/DFGApprox.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/nodes/functions/BSDF/D_GGX.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/nodes/functions/BSDF/EnvironmentBRDF.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/nodes/functions/BSDF/F_Schlick.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/nodes/functions/BSDF/Schlick_to_F0.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/nodes/functions/BSDF/V_GGX_SmithCorrelated.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/nodes/functions/PhongLightingModel.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/nodes/functions/PhysicalLightingModel.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/nodes/functions/material/getGeometryRoughness.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/nodes/functions/material/getRoughness.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/nodes/geometry/RangeNode.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/nodes/gpgpu/ComputeNode.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/nodes/lighting/AONode.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/nodes/lighting/AmbientLightNode.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/nodes/lighting/AnalyticLightNode.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/nodes/lighting/DirectionalLightNode.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/nodes/lighting/EnvironmentNode.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/nodes/lighting/HemisphereLightNode.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/nodes/lighting/IESSpotLightNode.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/nodes/lighting/LightNode.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/nodes/lighting/LightUtils.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/nodes/lighting/LightingContextNode.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/nodes/lighting/LightingNode.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/nodes/lighting/LightsNode.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/nodes/lighting/PointLightNode.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/nodes/lighting/SpotLightNode.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/nodes/loaders/NodeLoader.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/nodes/loaders/NodeMaterialLoader.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/nodes/loaders/NodeObjectLoader.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/nodes/materials/InstancedPointsNodeMaterial.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/nodes/materials/Line2NodeMaterial.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/nodes/materials/LineBasicNodeMaterial.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/nodes/materials/LineDashedNodeMaterial.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/nodes/materials/Materials.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/nodes/materials/MeshBasicNodeMaterial.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/nodes/materials/MeshLambertNodeMaterial.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/nodes/materials/MeshNormalNodeMaterial.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/nodes/materials/MeshPhongNodeMaterial.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/nodes/materials/MeshPhysicalNodeMaterial.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/nodes/materials/MeshStandardNodeMaterial.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/nodes/materials/NodeMaterial.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/nodes/materials/PointsNodeMaterial.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/nodes/materials/SpriteNodeMaterial.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/nodes/materialx/DISCLAIMER.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/nodes/materialx/MaterialXNodes.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/nodes/materialx/lib/mx_hsv.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/nodes/materialx/lib/mx_noise.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/nodes/materialx/lib/mx_transform_color.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/nodes/math/CondNode.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/nodes/math/HashNode.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/nodes/math/MathNode.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/nodes/math/OperatorNode.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/nodes/parsers/GLSLNodeFunction.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/nodes/parsers/GLSLNodeParser.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/nodes/procedural/CheckerNode.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/nodes/shadernode/ShaderNode.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/nodes/utils/ArrayElementNode.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/nodes/utils/ConvertNode.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/nodes/utils/DiscardNode.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/nodes/utils/EquirectUVNode.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/nodes/utils/JoinNode.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/nodes/utils/LoopNode.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/nodes/utils/MatcapUVNode.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/nodes/utils/MaxMipLevelNode.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/nodes/utils/OscNode.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/nodes/utils/PackingNode.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/nodes/utils/RemapNode.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/nodes/utils/RotateUVNode.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/nodes/utils/SetNode.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/nodes/utils/SpecularMIPLevelNode.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/nodes/utils/SplitNode.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/nodes/utils/SpriteSheetUVNode.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/nodes/utils/TimerNode.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/nodes/utils/TriplanarTexturesNode.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/objects/GroundProjectedSkybox.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/objects/InstancedPoints.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/objects/Lensflare.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/objects/MarchingCubes.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/objects/Reflector.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/objects/ReflectorForSSRPass.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/objects/Refractor.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/objects/ShadowMesh.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/objects/Sky.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/objects/Water.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/objects/Water2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/offscreen/jank.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/offscreen/offscreen.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/offscreen/scene.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/physics/AmmoPhysics.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/physics/RapierPhysics.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/postprocessing/AfterimagePass.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/postprocessing/BloomPass.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/postprocessing/BokehPass.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/postprocessing/ClearPass.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/postprocessing/CubeTexturePass.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/postprocessing/DotScreenPass.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/postprocessing/EffectComposer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/postprocessing/FilmPass.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/postprocessing/GlitchPass.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/postprocessing/HBAOPass.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/postprocessing/HalftonePass.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/postprocessing/LUTPass.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/postprocessing/MaskPass.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/postprocessing/OutlinePass.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/postprocessing/OutputPass.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/postprocessing/Pass.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/postprocessing/RenderPass.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/postprocessing/RenderPixelatedPass.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/postprocessing/SAOPass.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/postprocessing/SMAAPass.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/postprocessing/SSAARenderPass.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/postprocessing/SSAOPass.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/postprocessing/SSRPass.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/postprocessing/SavePass.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/postprocessing/ShaderPass.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/postprocessing/TAARenderPass.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/postprocessing/TexturePass.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/postprocessing/UnrealBloomPass.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/renderers/CSS2DRenderer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/renderers/CSS3DRenderer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/renderers/Projector.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/renderers/SVGRenderer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/renderers/common/Animation.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/renderers/common/Attributes.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/renderers/common/Backend.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/renderers/common/Background.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/renderers/common/Binding.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/renderers/common/Bindings.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/renderers/common/Buffer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/renderers/common/BufferUtils.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/renderers/common/ChainMap.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/renderers/common/Color4.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/renderers/common/ComputePipeline.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/renderers/common/Constants.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/renderers/common/CubeRenderTarget.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/renderers/common/DataMap.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/renderers/common/Geometries.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/renderers/common/Info.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/renderers/common/Pipeline.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/renderers/common/Pipelines.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/renderers/common/ProgrammableStage.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/renderers/common/RenderContext.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/renderers/common/RenderContexts.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/renderers/common/RenderList.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/renderers/common/RenderLists.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/renderers/common/RenderObject.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/renderers/common/RenderObjects.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/renderers/common/RenderPipeline.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/renderers/common/Renderer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/renderers/common/SampledTexture.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/renderers/common/Sampler.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/renderers/common/StorageBuffer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/renderers/common/StorageTexture.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/renderers/common/Textures.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/renderers/common/Uniform.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/renderers/common/UniformBuffer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/renderers/common/UniformsGroup.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/renderers/common/nodes/NodeBuilderState.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/renderers/common/nodes/NodeSampledTexture.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/renderers/common/nodes/NodeSampler.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/renderers/common/nodes/NodeUniform.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/renderers/common/nodes/NodeUniformsGroup.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/renderers/common/nodes/Nodes.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/renderers/webgl-legacy/nodes/GLSL1NodeBuilder.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/renderers/webgl-legacy/nodes/SlotNode.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/renderers/webgl-legacy/nodes/WebGLNodeBuilder.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/renderers/webgl-legacy/nodes/WebGLNodes.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/renderers/webgl/WebGLBackend.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/renderers/webgl/nodes/GLSLNodeBuilder.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/renderers/webgl/utils/WebGLAttributeUtils.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/renderers/webgl/utils/WebGLExtensions.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/renderers/webgl/utils/WebGLState.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/renderers/webgl/utils/WebGLTextureUtils.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/renderers/webgl/utils/WebGLUtils.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/renderers/webgpu/WebGPUBackend.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/renderers/webgpu/WebGPURenderer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/renderers/webgpu/nodes/WGSLNodeBuilder.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/renderers/webgpu/nodes/WGSLNodeFunction.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/renderers/webgpu/nodes/WGSLNodeParser.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/renderers/webgpu/utils/WebGPUAttributeUtils.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/renderers/webgpu/utils/WebGPUBindingUtils.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/renderers/webgpu/utils/WebGPUConstants.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/renderers/webgpu/utils/WebGPUPipelineUtils.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/renderers/webgpu/utils/WebGPUTexturePassUtils.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/renderers/webgpu/utils/WebGPUTextureUtils.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/renderers/webgpu/utils/WebGPUUtils.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/shaders/ACESFilmicToneMappingShader.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/shaders/AfterimageShader.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/shaders/BasicShader.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/shaders/BleachBypassShader.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/shaders/BlendShader.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/shaders/BokehShader.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/shaders/BokehShader2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/shaders/BrightnessContrastShader.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/shaders/ColorCorrectionShader.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/shaders/ColorifyShader.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/shaders/ConvolutionShader.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/shaders/CopyShader.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/shaders/DOFMipMapShader.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/shaders/DepthLimitedBlurShader.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/shaders/DigitalGlitch.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/shaders/DotScreenShader.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/shaders/ExposureShader.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/shaders/FXAAShader.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/shaders/FilmShader.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/shaders/FocusShader.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/shaders/FreiChenShader.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/shaders/GammaCorrectionShader.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/shaders/GodRaysShader.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/shaders/HBAOShader.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/shaders/HalftoneShader.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/shaders/HorizontalBlurShader.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/shaders/HorizontalTiltShiftShader.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/shaders/HueSaturationShader.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/shaders/KaleidoShader.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/shaders/LuminosityHighPassShader.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/shaders/LuminosityShader.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/shaders/MMDToonShader.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/shaders/MirrorShader.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/shaders/NormalMapShader.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/shaders/OutputShader.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/shaders/PoissonDenoiseShader.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/shaders/RGBShiftShader.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/shaders/SAOShader.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/shaders/SMAAShader.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/shaders/SSAOShader.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/shaders/SSRShader.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/shaders/SepiaShader.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/shaders/SobelOperatorShader.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/shaders/SubsurfaceScatteringShader.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/shaders/TechnicolorShader.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/shaders/ToonShader.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/shaders/TriangleBlurShader.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/shaders/UnpackDepthRGBAShader.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/shaders/VelocityShader.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/shaders/VerticalBlurShader.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/shaders/VerticalTiltShiftShader.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/shaders/VignetteShader.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/shaders/VolumeShader.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/shaders/WaterRefractionShader.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/textures/FlakesTexture.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/transpiler/AST.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/transpiler/GLSLDecoder.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/transpiler/ShaderToyDecoder.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/transpiler/TSLEncoder.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/transpiler/Transpiler.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/utils/BufferGeometryUtils.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/utils/CameraUtils.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/utils/GPUStatsPanel.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/utils/GeometryCompressionUtils.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/utils/GeometryUtils.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/utils/LDrawUtils.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/utils/PackedPhongMaterial.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/utils/SceneUtils.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/utils/ShadowMapViewer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/utils/SkeletonUtils.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/utils/SortUtils.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/utils/TextureUtils.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/utils/UVsDebug.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/utils/WorkerPool.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/webxr/ARButton.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/webxr/OculusHandModel.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/webxr/OculusHandPointerModel.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/webxr/Text2D.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/webxr/VRButton.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/webxr/XRButton.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/webxr/XRControllerModelFactory.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/webxr/XREstimatedLight.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/webxr/XRHandMeshModel.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/webxr/XRHandModelFactory.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/webxr/XRHandPrimitiveModel.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/examples/jsm/webxr/XRPlanes.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/src/Three.Legacy.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/src/Three.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/src/animation/AnimationAction.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/src/animation/AnimationClip.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/src/animation/AnimationMixer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/src/animation/AnimationObjectGroup.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/src/animation/AnimationUtils.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/src/animation/KeyframeTrack.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/src/animation/PropertyBinding.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/src/animation/PropertyMixer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/src/animation/tracks/BooleanKeyframeTrack.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/src/animation/tracks/ColorKeyframeTrack.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/src/animation/tracks/NumberKeyframeTrack.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/src/animation/tracks/QuaternionKeyframeTrack.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/src/animation/tracks/StringKeyframeTrack.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/src/animation/tracks/VectorKeyframeTrack.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/src/audio/Audio.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/src/audio/AudioAnalyser.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/src/audio/AudioContext.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/src/audio/AudioListener.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/src/audio/PositionalAudio.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/src/cameras/ArrayCamera.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/src/cameras/Camera.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/src/cameras/CubeCamera.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/src/cameras/OrthographicCamera.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/src/cameras/PerspectiveCamera.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/src/cameras/StereoCamera.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/src/constants.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/src/core/BufferAttribute.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/src/core/BufferGeometry.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/src/core/Clock.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/src/core/EventDispatcher.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/src/core/GLBufferAttribute.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/src/core/InstancedBufferAttribute.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/src/core/InstancedBufferGeometry.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/src/core/InstancedInterleavedBuffer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/src/core/InterleavedBuffer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/src/core/InterleavedBufferAttribute.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/src/core/Layers.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/src/core/Object3D.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/src/core/Raycaster.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/src/core/RenderTarget.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/src/core/Uniform.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/src/core/UniformsGroup.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/src/extras/DataUtils.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/src/extras/Earcut.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/src/extras/ImageUtils.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/src/extras/PMREMGenerator.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/src/extras/ShapeUtils.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/src/extras/core/Curve.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/src/extras/core/CurvePath.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/src/extras/core/Interpolations.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/src/extras/core/Path.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/src/extras/core/Shape.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/src/extras/core/ShapePath.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/src/extras/curves/ArcCurve.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/src/extras/curves/CatmullRomCurve3.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/src/extras/curves/CubicBezierCurve.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/src/extras/curves/CubicBezierCurve3.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/src/extras/curves/Curves.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/src/extras/curves/EllipseCurve.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/src/extras/curves/LineCurve.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/src/extras/curves/LineCurve3.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/src/extras/curves/QuadraticBezierCurve.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/src/extras/curves/QuadraticBezierCurve3.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/src/extras/curves/SplineCurve.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/src/geometries/BoxGeometry.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/src/geometries/CapsuleGeometry.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/src/geometries/CircleGeometry.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/src/geometries/ConeGeometry.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/src/geometries/CylinderGeometry.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/src/geometries/DodecahedronGeometry.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/src/geometries/EdgesGeometry.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/src/geometries/ExtrudeGeometry.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/src/geometries/Geometries.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/src/geometries/IcosahedronGeometry.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/src/geometries/LatheGeometry.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/src/geometries/OctahedronGeometry.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/src/geometries/PlaneGeometry.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/src/geometries/PolyhedronGeometry.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/src/geometries/RingGeometry.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/src/geometries/ShapeGeometry.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/src/geometries/SphereGeometry.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/src/geometries/TetrahedronGeometry.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/src/geometries/TorusGeometry.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/src/geometries/TorusKnotGeometry.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/src/geometries/TubeGeometry.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/src/geometries/WireframeGeometry.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/src/helpers/ArrowHelper.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/src/helpers/AxesHelper.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/src/helpers/Box3Helper.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/src/helpers/BoxHelper.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/src/helpers/CameraHelper.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/src/helpers/DirectionalLightHelper.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/src/helpers/GridHelper.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/src/helpers/HemisphereLightHelper.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/src/helpers/PlaneHelper.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/src/helpers/PointLightHelper.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/src/helpers/PolarGridHelper.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/src/helpers/SkeletonHelper.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/src/helpers/SpotLightHelper.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/src/lights/AmbientLight.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/src/lights/DirectionalLight.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/src/lights/DirectionalLightShadow.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/src/lights/HemisphereLight.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/src/lights/Light.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/src/lights/LightProbe.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/src/lights/LightShadow.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/src/lights/PointLight.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/src/lights/PointLightShadow.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/src/lights/RectAreaLight.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/src/lights/SpotLight.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/src/lights/SpotLightShadow.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/src/loaders/AnimationLoader.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/src/loaders/AudioLoader.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/src/loaders/BufferGeometryLoader.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/src/loaders/Cache.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/src/loaders/CompressedTextureLoader.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/src/loaders/CubeTextureLoader.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/src/loaders/DataTextureLoader.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/src/loaders/FileLoader.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/src/loaders/ImageBitmapLoader.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/src/loaders/ImageLoader.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/src/loaders/Loader.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/src/loaders/LoaderUtils.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/src/loaders/LoadingManager.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/src/loaders/MaterialLoader.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/src/loaders/ObjectLoader.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/src/loaders/TextureLoader.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/src/materials/LineBasicMaterial.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/src/materials/LineDashedMaterial.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/src/materials/Material.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/src/materials/Materials.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/src/materials/MeshBasicMaterial.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/src/materials/MeshDepthMaterial.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/src/materials/MeshDistanceMaterial.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/src/materials/MeshLambertMaterial.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/src/materials/MeshMatcapMaterial.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/src/materials/MeshNormalMaterial.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/src/materials/MeshPhongMaterial.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/src/materials/MeshPhysicalMaterial.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/src/materials/MeshStandardMaterial.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/src/materials/MeshToonMaterial.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/src/materials/PointsMaterial.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/src/materials/RawShaderMaterial.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/src/materials/ShaderMaterial.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/src/materials/ShadowMaterial.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/src/materials/SpriteMaterial.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/src/math/Box2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/src/math/Box3.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/src/math/Color.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/src/math/ColorManagement.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/src/math/Cylindrical.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/src/math/Euler.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/src/math/Frustum.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/src/math/Interpolant.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/src/math/Line3.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/src/math/MathUtils.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/src/math/Matrix3.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/src/math/Matrix4.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/src/math/Plane.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/src/math/Quaternion.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/src/math/Ray.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/src/math/Sphere.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/src/math/Spherical.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/src/math/SphericalHarmonics3.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/src/math/Triangle.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/src/math/Vector2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/src/math/Vector3.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/src/math/Vector4.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/src/math/interpolants/CubicInterpolant.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/src/math/interpolants/DiscreteInterpolant.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/src/math/interpolants/LinearInterpolant.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/src/math/interpolants/QuaternionLinearInterpolant.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/src/objects/BatchedMesh.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/src/objects/Bone.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/src/objects/Group.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/src/objects/InstancedMesh.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/src/objects/LOD.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/src/objects/Line.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/src/objects/LineLoop.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/src/objects/LineSegments.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/src/objects/Mesh.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/src/objects/Points.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/src/objects/Skeleton.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/src/objects/SkinnedMesh.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/src/objects/Sprite.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/src/renderers/WebGL1Renderer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/src/renderers/WebGL3DRenderTarget.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/src/renderers/WebGLArrayRenderTarget.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/src/renderers/WebGLCubeRenderTarget.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/src/renderers/WebGLMultipleRenderTargets.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/src/renderers/WebGLRenderTarget.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/src/renderers/WebGLRenderer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/src/renderers/shaders/ShaderChunk.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/src/renderers/shaders/ShaderChunk/alphahash_fragment.glsl.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/src/renderers/shaders/ShaderChunk/alphahash_pars_fragment.glsl.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/src/renderers/shaders/ShaderChunk/alphamap_fragment.glsl.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/src/renderers/shaders/ShaderChunk/alphamap_pars_fragment.glsl.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/src/renderers/shaders/ShaderChunk/alphatest_fragment.glsl.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/src/renderers/shaders/ShaderChunk/alphatest_pars_fragment.glsl.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/src/renderers/shaders/ShaderChunk/aomap_fragment.glsl.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/src/renderers/shaders/ShaderChunk/aomap_pars_fragment.glsl.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/src/renderers/shaders/ShaderChunk/batching_pars_vertex.glsl.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/src/renderers/shaders/ShaderChunk/batching_vertex.glsl.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/src/renderers/shaders/ShaderChunk/begin_vertex.glsl.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/src/renderers/shaders/ShaderChunk/beginnormal_vertex.glsl.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/src/renderers/shaders/ShaderChunk/bsdfs.glsl.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/src/renderers/shaders/ShaderChunk/bumpmap_pars_fragment.glsl.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/src/renderers/shaders/ShaderChunk/clearcoat_normal_fragment_begin.glsl.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/src/renderers/shaders/ShaderChunk/clearcoat_normal_fragment_maps.glsl.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/src/renderers/shaders/ShaderChunk/clearcoat_pars_fragment.glsl.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/src/renderers/shaders/ShaderChunk/clipping_planes_fragment.glsl.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/src/renderers/shaders/ShaderChunk/clipping_planes_pars_fragment.glsl.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/src/renderers/shaders/ShaderChunk/clipping_planes_pars_vertex.glsl.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/src/renderers/shaders/ShaderChunk/clipping_planes_vertex.glsl.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/src/renderers/shaders/ShaderChunk/color_fragment.glsl.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/src/renderers/shaders/ShaderChunk/color_pars_fragment.glsl.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/src/renderers/shaders/ShaderChunk/color_pars_vertex.glsl.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/src/renderers/shaders/ShaderChunk/color_vertex.glsl.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/src/renderers/shaders/ShaderChunk/colorspace_fragment.glsl.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/src/renderers/shaders/ShaderChunk/colorspace_pars_fragment.glsl.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/src/renderers/shaders/ShaderChunk/common.glsl.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/src/renderers/shaders/ShaderChunk/cube_uv_reflection_fragment.glsl.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/src/renderers/shaders/ShaderChunk/default_fragment.glsl.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/src/renderers/shaders/ShaderChunk/default_vertex.glsl.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/src/renderers/shaders/ShaderChunk/defaultnormal_vertex.glsl.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/src/renderers/shaders/ShaderChunk/displacementmap_pars_vertex.glsl.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/src/renderers/shaders/ShaderChunk/displacementmap_vertex.glsl.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/src/renderers/shaders/ShaderChunk/dithering_fragment.glsl.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/src/renderers/shaders/ShaderChunk/dithering_pars_fragment.glsl.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/src/renderers/shaders/ShaderChunk/emissivemap_fragment.glsl.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/src/renderers/shaders/ShaderChunk/emissivemap_pars_fragment.glsl.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/src/renderers/shaders/ShaderChunk/envmap_common_pars_fragment.glsl.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/src/renderers/shaders/ShaderChunk/envmap_fragment.glsl.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/src/renderers/shaders/ShaderChunk/envmap_pars_fragment.glsl.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/src/renderers/shaders/ShaderChunk/envmap_pars_vertex.glsl.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/src/renderers/shaders/ShaderChunk/envmap_physical_pars_fragment.glsl.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/src/renderers/shaders/ShaderChunk/envmap_vertex.glsl.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/src/renderers/shaders/ShaderChunk/fog_fragment.glsl.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/src/renderers/shaders/ShaderChunk/fog_pars_fragment.glsl.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/src/renderers/shaders/ShaderChunk/fog_pars_vertex.glsl.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/src/renderers/shaders/ShaderChunk/fog_vertex.glsl.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/src/renderers/shaders/ShaderChunk/gradientmap_pars_fragment.glsl.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/src/renderers/shaders/ShaderChunk/iridescence_fragment.glsl.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/src/renderers/shaders/ShaderChunk/iridescence_pars_fragment.glsl.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/src/renderers/shaders/ShaderChunk/lightmap_fragment.glsl.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/src/renderers/shaders/ShaderChunk/lightmap_pars_fragment.glsl.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/src/renderers/shaders/ShaderChunk/lights_fragment_begin.glsl.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/src/renderers/shaders/ShaderChunk/lights_fragment_end.glsl.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/src/renderers/shaders/ShaderChunk/lights_fragment_maps.glsl.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/src/renderers/shaders/ShaderChunk/lights_lambert_fragment.glsl.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/src/renderers/shaders/ShaderChunk/lights_lambert_pars_fragment.glsl.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/src/renderers/shaders/ShaderChunk/lights_pars_begin.glsl.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/src/renderers/shaders/ShaderChunk/lights_phong_fragment.glsl.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/src/renderers/shaders/ShaderChunk/lights_phong_pars_fragment.glsl.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/src/renderers/shaders/ShaderChunk/lights_physical_fragment.glsl.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/src/renderers/shaders/ShaderChunk/lights_physical_pars_fragment.glsl.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/src/renderers/shaders/ShaderChunk/lights_toon_fragment.glsl.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/src/renderers/shaders/ShaderChunk/lights_toon_pars_fragment.glsl.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/src/renderers/shaders/ShaderChunk/logdepthbuf_fragment.glsl.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/src/renderers/shaders/ShaderChunk/logdepthbuf_pars_fragment.glsl.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/src/renderers/shaders/ShaderChunk/logdepthbuf_pars_vertex.glsl.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/src/renderers/shaders/ShaderChunk/logdepthbuf_vertex.glsl.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/src/renderers/shaders/ShaderChunk/map_fragment.glsl.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/src/renderers/shaders/ShaderChunk/map_pars_fragment.glsl.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/src/renderers/shaders/ShaderChunk/map_particle_fragment.glsl.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/src/renderers/shaders/ShaderChunk/map_particle_pars_fragment.glsl.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/src/renderers/shaders/ShaderChunk/metalnessmap_fragment.glsl.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/src/renderers/shaders/ShaderChunk/metalnessmap_pars_fragment.glsl.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/src/renderers/shaders/ShaderChunk/morphcolor_vertex.glsl.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/src/renderers/shaders/ShaderChunk/morphnormal_vertex.glsl.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/src/renderers/shaders/ShaderChunk/morphtarget_pars_vertex.glsl.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/src/renderers/shaders/ShaderChunk/morphtarget_vertex.glsl.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/src/renderers/shaders/ShaderChunk/normal_fragment_begin.glsl.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/src/renderers/shaders/ShaderChunk/normal_fragment_maps.glsl.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/src/renderers/shaders/ShaderChunk/normal_pars_fragment.glsl.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/src/renderers/shaders/ShaderChunk/normal_pars_vertex.glsl.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/src/renderers/shaders/ShaderChunk/normal_vertex.glsl.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/src/renderers/shaders/ShaderChunk/normalmap_pars_fragment.glsl.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/src/renderers/shaders/ShaderChunk/opaque_fragment.glsl.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/src/renderers/shaders/ShaderChunk/packing.glsl.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/src/renderers/shaders/ShaderChunk/premultiplied_alpha_fragment.glsl.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/src/renderers/shaders/ShaderChunk/project_vertex.glsl.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/src/renderers/shaders/ShaderChunk/roughnessmap_fragment.glsl.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/src/renderers/shaders/ShaderChunk/roughnessmap_pars_fragment.glsl.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/src/renderers/shaders/ShaderChunk/shadowmap_pars_fragment.glsl.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/src/renderers/shaders/ShaderChunk/shadowmap_pars_vertex.glsl.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/src/renderers/shaders/ShaderChunk/shadowmap_vertex.glsl.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/src/renderers/shaders/ShaderChunk/shadowmask_pars_fragment.glsl.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/src/renderers/shaders/ShaderChunk/skinbase_vertex.glsl.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/src/renderers/shaders/ShaderChunk/skinning_pars_vertex.glsl.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/src/renderers/shaders/ShaderChunk/skinning_vertex.glsl.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/src/renderers/shaders/ShaderChunk/skinnormal_vertex.glsl.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/src/renderers/shaders/ShaderChunk/specularmap_fragment.glsl.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/src/renderers/shaders/ShaderChunk/specularmap_pars_fragment.glsl.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/src/renderers/shaders/ShaderChunk/tonemapping_fragment.glsl.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/src/renderers/shaders/ShaderChunk/tonemapping_pars_fragment.glsl.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/src/renderers/shaders/ShaderChunk/transmission_fragment.glsl.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/src/renderers/shaders/ShaderChunk/transmission_pars_fragment.glsl.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/src/renderers/shaders/ShaderChunk/uv_pars_fragment.glsl.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/src/renderers/shaders/ShaderChunk/uv_pars_vertex.glsl.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/src/renderers/shaders/ShaderChunk/uv_vertex.glsl.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/src/renderers/shaders/ShaderChunk/worldpos_vertex.glsl.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/src/renderers/shaders/ShaderLib.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/src/renderers/shaders/ShaderLib/background.glsl.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/src/renderers/shaders/ShaderLib/backgroundCube.glsl.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/src/renderers/shaders/ShaderLib/cube.glsl.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/src/renderers/shaders/ShaderLib/depth.glsl.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/src/renderers/shaders/ShaderLib/distanceRGBA.glsl.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/src/renderers/shaders/ShaderLib/equirect.glsl.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/src/renderers/shaders/ShaderLib/linedashed.glsl.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/src/renderers/shaders/ShaderLib/meshbasic.glsl.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/src/renderers/shaders/ShaderLib/meshlambert.glsl.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/src/renderers/shaders/ShaderLib/meshmatcap.glsl.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/src/renderers/shaders/ShaderLib/meshnormal.glsl.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/src/renderers/shaders/ShaderLib/meshphong.glsl.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/src/renderers/shaders/ShaderLib/meshphysical.glsl.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/src/renderers/shaders/ShaderLib/meshtoon.glsl.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/src/renderers/shaders/ShaderLib/points.glsl.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/src/renderers/shaders/ShaderLib/shadow.glsl.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/src/renderers/shaders/ShaderLib/sprite.glsl.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/src/renderers/shaders/ShaderLib/vsm.glsl.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/src/renderers/shaders/UniformsLib.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/src/renderers/shaders/UniformsUtils.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/src/renderers/webgl/WebGLAnimation.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/src/renderers/webgl/WebGLAttributes.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/src/renderers/webgl/WebGLBackground.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/src/renderers/webgl/WebGLBindingStates.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/src/renderers/webgl/WebGLBufferRenderer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/src/renderers/webgl/WebGLCapabilities.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/src/renderers/webgl/WebGLClipping.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/src/renderers/webgl/WebGLCubeMaps.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/src/renderers/webgl/WebGLCubeUVMaps.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/src/renderers/webgl/WebGLExtensions.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/src/renderers/webgl/WebGLGeometries.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/src/renderers/webgl/WebGLIndexedBufferRenderer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/src/renderers/webgl/WebGLInfo.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/src/renderers/webgl/WebGLLights.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/src/renderers/webgl/WebGLMaterials.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/src/renderers/webgl/WebGLMorphtargets.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/src/renderers/webgl/WebGLObjects.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/src/renderers/webgl/WebGLProgram.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/src/renderers/webgl/WebGLPrograms.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/src/renderers/webgl/WebGLProperties.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/src/renderers/webgl/WebGLRenderLists.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/src/renderers/webgl/WebGLRenderStates.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/src/renderers/webgl/WebGLShader.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/src/renderers/webgl/WebGLShaderCache.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/src/renderers/webgl/WebGLShadowMap.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/src/renderers/webgl/WebGLState.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/src/renderers/webgl/WebGLTextures.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/src/renderers/webgl/WebGLUniforms.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/src/renderers/webgl/WebGLUniformsGroups.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/src/renderers/webgl/WebGLUtils.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/src/renderers/webxr/WebXRController.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/src/renderers/webxr/WebXRManager.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/src/scenes/Fog.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/src/scenes/FogExp2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/src/scenes/Scene.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/src/textures/CanvasTexture.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/src/textures/CompressedArrayTexture.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/src/textures/CompressedCubeTexture.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/src/textures/CompressedTexture.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/src/textures/CubeTexture.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/src/textures/Data3DTexture.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/src/textures/DataArrayTexture.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/src/textures/DataTexture.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/src/textures/DepthTexture.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/src/textures/FramebufferTexture.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/src/textures/Source.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/src/textures/Texture.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/src/textures/VideoTexture.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/three/src/utils.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/openbexi_hypergraph.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/openbexi_timeline.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/openbexi/hypergraph/data_browser/data_configuration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/openbexi/hypergraph/server/openbexi_hypergraph.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/openbexi/hypergraph/servlets/ob_sse_hypergraph.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ob_grid.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ob_hypergraph.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ob_local_storage.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/maven-archiver/pom.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/openbexi_hypergraph-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tomcat/catalina.out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tomcat/catalina.out.1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tomcat/resources/keystore2.jks" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tomcat/resources/timeline_cert.cer" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tomcat/webapps/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tomcat/webapps/img/1.png" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="package.json" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;arcazj&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="1b355dc8-2eec-49c0-a09d-6f7b35452f26" />
+        <option name="url" value="https://github.com/arcazj/openbexi_hypergraph" />
+      </UrlAndAccount>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="2" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="2WUt13z2Q5xMasG8k1tQNiLs3Gf" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+    <option name="showVisibilityIcons" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;JavaScript Debug.index.html.executor&quot;: &quot;Debug&quot;,
+    &quot;JavaScript Debug.openbexi_hypergraph.html.executor&quot;: &quot;Debug&quot;,
+    &quot;Maven.openbexi_hypergraph [install...].executor&quot;: &quot;Debug&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/projects/openbexi_hypergraph/src&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.24252874&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;JavaScript.Libraries&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\projects\openbexi_hypergraph\models" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JavaScript Debug.openbexi_hypergraph.html">
+    <configuration name="openbexi_hypergraph" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.openbexi.hypergraph.server.openbexi_hypergraph" />
+      <module name="openbexi_timeline" />
+      <option name="PROGRAM_PARAMETERS" value="-data_conf &quot;etc/ob_startup_conf.json&quot;" />
+      <extension name="com.egoshard.intellij.k8s-runtime-config-plugin">
+        <option name="ENABLED" value="false" />
+        <entries />
+      </extension>
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.openbexi.hypergraph.server.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/openbexi_hypergraph/three-spritetext/example/basic/index.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="openbexi_hypergraph.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/openbexi_hypergraph/openbexi_hypergraph.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Application.openbexi_hypergraph" />
+      <item itemvalue="JavaScript Debug.index.html" />
+      <item itemvalue="JavaScript Debug.openbexi_hypergraph.html" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.openbexi_hypergraph.html" />
+        <item itemvalue="JavaScript Debug.index.html" />
+        <item itemvalue="Application.openbexi_hypergraph" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-17.0.10-corretto-17.0.10-4caba194b151-5cd809f4" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="51ed2380-ce71-40b5-9fcd-90bf73480546" name="Changes" comment="" />
+      <created>1696798767930</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1696798767930</updated>
+      <workItem from="1696798768924" duration="13546000" />
+      <workItem from="1697287686215" duration="36878000" />
+      <workItem from="1699138067794" duration="23495000" />
+      <workItem from="1700348033136" duration="107875000" />
+      <workItem from="1701615134229" duration="124000" />
+      <workItem from="1701615509392" duration="4180000" />
+      <workItem from="1701619701395" duration="19317000" />
+      <workItem from="1702155686391" duration="440000" />
+      <workItem from="1702156259016" duration="19453000" />
+      <workItem from="1702728714388" duration="103000" />
+      <workItem from="1702769352938" duration="1185000" />
+      <workItem from="1707676683473" duration="5846000" />
+      <workItem from="1707690277041" duration="2618000" />
+      <workItem from="1708222862431" duration="2660000" />
+      <workItem from="1708225917731" duration="659000" />
+    </task>
+    <task id="LOCAL-00001" summary="test">
+      <option name="closed" value="true" />
+      <created>1708225983808</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1708225983808</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="dependencySupport" implementationName="executable:docker" />
+    <option featureType="dependencySupport" implementationName="executable:kubectl" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="test" />
+    <option name="LAST_COMMIT_MESSAGE" value="test" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/openbexi_hypergraph$openbexi_hypergraph_html.dat" NAME="openbexi_hypergraph.html Coverage Results" MODIFIED="1701025330721" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="WipCoverageRunner" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>

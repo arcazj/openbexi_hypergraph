@@ -1,0 +1,89 @@
+{
+  "hypergraph": {
+    "name": "test",
+    "vertices": [
+      {
+        "id": 1,
+        "name": "name1",
+        "type": "rectangle",
+        "attributes": [
+          {"name": "att1", "textColor": "#f80606"},
+          {"name": "att2"},
+          {"name": "att3"},
+          {"name": "att4"}
+        ],
+        "position": {"x": 0, "y": 0, "z": 0},
+        "size": {"width": 2, "height": 2},
+        "rendering": {
+          "color": "#48c76a",
+          "texture": "icons/ob_settings.png",
+          "transparent": true,
+          "opacity": 0.7
+        }
+      },
+      {
+        "id": 5,
+        "name": "name2",
+        "type": "rectangle",
+        "position": {"x": 0, "y": 0, "z": 0},
+        "size": {"width": 4, "height": 2},
+        "rendering": {
+          "color": "#912121",
+          "textColor": "#980505"
+        }
+      },
+      {
+        "id": 10,
+        "name": "name3",
+        "type": "rectangle",
+        "position": {"x": 0, "y": 0, "z": 0},
+        "size": {"width": 2, "height": 2},
+        "rendering": {
+          "color": "#797df2",
+          "wireframe": false,
+          "transparent": true,
+          "opacity": 0.2
+        }
+      },
+      {
+        "id": 11,
+        "name": "name4",
+        "type": "circle",
+        "position": {"x": -2, "y": 0, "z": 0},
+        "size": {"width": 2, "height": 2}
+      }
+    ],
+    "edges": [
+      {"ids": [1, 10], "text": "con1_10", "type": "CatmullRomCurve"},
+      {"ids": [5, 10], "text": "con5_10", "type": "QuadraticBezierCurve", "controlPoint": {"x": 0, "y": 3, "z": 0}},
+      {
+        "ids": [1, 5],
+        "text": "con1_5",
+        "type": "CubicBezierCurve",
+        "controlPoints": [{"x": 0, "y": 2, "z": 0}, {"x": 0, "y": -2, "z": 0}],
+        "rendering": {
+          "color": "#b60b0b",
+          "textColor": "#980505",
+          "wireframe": true,
+          "transparent": true,
+          "opacity": 0.8
+        }
+      },
+      {
+        "ids": [10, 10],
+        "text": "con10_10",
+        "type": "CubicBezierCurve",
+        "controlPoints": [{"x": 1, "y": 3, "z": 0}, {"x": -1, "y": -3, "z": 0}],
+        "rendering": {
+          "color": "#549a25",
+          "textColor": "#980505",
+          "wireframe": true,
+          "transparent": true,
+          "opacity": 0.8
+        }
+      },
+      {"ids": [1, 11], "text": "con1_11", "type": "Line"}
+    ]
+  }
+}
+
