@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>OpenBEXI Hypergraph</title>
+    <link rel="stylesheet" href="./css/ob_hypergraph.css">
+</head>
+<body>
+<div id="container"></div>
+<div id="menu">
+    <div id="hypergrah_name">
+    </div>
+    <div id="hypergrah_underline"> __________________________
+    </div>
+    <div id="gridOption">
+        <input type="checkbox" id="showGrid" checked>
+        <label for="showGrid">Show Grid</label>
+    </div>
+    <div id="hypergrah_underline2"> __________________________
+    </div>
+    <div id="saveOption">
+        <img src="./icons/ob_save.png" id="saveIcon" title="Save Model" alt=""/>
+        <span id="saveIconLabel">Save Model</span>
+    </div>
+    <div id="loadOption">
+        <img src="./icons/ob_load.png" id="loadIcon" title="Load Model" alt=""/>
+        <span id="loadIconLabel">Load Model</span>
+    </div>
+</div>
+
+<!-- Import map for module paths -->
+<script type="importmap">
+    {
+        "imports": {
+            "three": "./node_modules/three/build/three.module.min.js",
+            "drag_controls": "./node_modules/three/examples/jsm/controls/DragControls.js",
+            "three-spritetext": "./node_modules/three-spritetext/dist/three-spritetext.mjs"
+        }
+    }
+</script>
+<script type="module" src="./src/ob_hypergraph.js"></script>
+
+</body>
+</html>
