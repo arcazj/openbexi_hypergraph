@@ -51,7 +51,7 @@ function OB_HYPERGRAPH(models) {
         // Event listener for the save icon click
         document.getElementById('saveIcon').addEventListener('click', () => this.saveHyperGraph(vertices, edges));
         document.getElementById('loadIcon').addEventListener('click', () => this.loadHyperGraph(this.models));
-        document.getElementById('hypergrah_name').innerText = this.hypergraph_name;
+        document.getElementById('hypergraph_name').innerText = this.hypergraph_name;
         document.addEventListener('DOMContentLoaded', () => {
             const selectionContainer = document.getElementById('menu'); // Assuming 'menu' is where we want to insert the dropdown
             let dropdownExists = false;
@@ -222,7 +222,7 @@ function OB_HYPERGRAPH(models) {
         return this.loadJSON(hypergraph_file)
             .then(data => {
                 if (data && data.hypergraph) {
-                    document.getElementById('hypergrah_name').innerText = data.hypergraph.name;
+                    document.getElementById('hypergraph_name').innerText = data.hypergraph.name;
                     return data.hypergraph;
                 } else {
                     throw new Error('Invalid JSON structure');
