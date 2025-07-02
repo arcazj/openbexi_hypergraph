@@ -12,10 +12,13 @@ function OB_HYPERGRAPH(models) {
     this.models = models;
     this.hypergraph_name = null;
     this.hypergraph_file = null;
+    this.textScaleFactor = 0.05;
 
     const vertices = {};
     const edges = [];
     const edgeTexts = [];
+    const vertexTexts = [];
+    const spriteTexts = [];
 
     const loader = new FontLoader();
 
@@ -42,6 +45,18 @@ function OB_HYPERGRAPH(models) {
             camera.updateProjectionMatrix();
             renderer.setSize(window.innerWidth, window.innerHeight);
         });
+    }
+
+    OB_HYPERGRAPH.prototype.updateTextScale = function (cam) {
+        let scale = 1;
+        if (cam && cam.isPerspectiveCamera) {
+            scale = Math.abs(cam.position.z) * this.textScaleFactor;
+        } else if (cam && cam.isOrthographicCamera) {
+            scale = cam.zoom * this.textScaleFactor;
+        }
+        vertexTexts.forEach(t => t.scale.set(scale, scale, scale));
+        edgeTexts.forEach(t => t.scale.set(scale, scale, scale));
+        spriteTexts.forEach(t => t.scale.set(scale, scale, scale));
     }
 
     OB_HYPERGRAPH.prototype.initMenuHyperGraph = function () {
@@ -300,6 +315,7 @@ function OB_HYPERGRAPH(models) {
         if (mesh !== undefined) {
             mesh.add(ob_sprite);
         }
+        spriteTexts.push(ob_sprite);
         return ob_sprite;
     };
 
@@ -324,6 +340,7 @@ function OB_HYPERGRAPH(models) {
         );
 
         mesh.add(textMesh);
+        vertexTexts.push(textMesh);
     }
 
     OB_HYPERGRAPH.prototype.addEndpointCircles = function (mesh) {
@@ -904,6 +921,7 @@ function OB_HYPERGRAPH(models) {
         requestAnimationFrame(that.animate);
         // Update controls
         that.controls.update();
+        that.updateTextScale(camera);
         renderer.render(scene, camera);
     };
 
