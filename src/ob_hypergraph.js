@@ -1,8 +1,8 @@
 import * as THREE from 'three';
-import {OrbitControls} from '/three/examples/jsm/controls/OrbitControls.js';
-import {DragControls} from '/three/examples/jsm/controls/DragControls.js';
-import {FontLoader} from "/three/examples/jsm/loaders/FontLoader.js";
-import {TextGeometry} from '/three/examples/jsm/geometries/TextGeometry.js';
+import { OrbitControls } from './node_modules/three/examples/jsm/controls/OrbitControls.js';
+import { DragControls } from './node_modules/three/examples/jsm/controls/DragControls.js';
+import { FontLoader } from './node_modules/three/examples/jsm/loaders/FontLoader.js';
+import { TextGeometry } from './node_modules/three/examples/jsm/geometries/TextGeometry.js';
 import {Grid} from './ob_grid.js';
 import {LocalStorage} from './ob_local_storage.js';
 import SpriteText from "three-spritetext";
