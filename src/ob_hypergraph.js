@@ -35,6 +35,13 @@ function OB_HYPERGRAPH(models) {
         renderer = new THREE.WebGLRenderer();
         renderer.setSize(window.innerWidth, window.innerHeight);
         renderer.setClearColor(0xFFFFFF);
+        window.addEventListener('resize', () => {
+            const aspect = window.innerWidth / window.innerHeight;
+            camera.left = -aspect * 10;
+            camera.right = aspect * 10;
+            camera.updateProjectionMatrix();
+            renderer.setSize(window.innerWidth, window.innerHeight);
+        });
     }
 
     OB_HYPERGRAPH.prototype.initMenuHyperGraph = function () {
