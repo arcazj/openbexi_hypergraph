@@ -272,8 +272,8 @@ function OB_HYPERGRAPH(models) {
 
     OB_HYPERGRAPH.prototype.add_text_sprite = function (ob_scene_index, mesh, text, x, y, z, backgroundColor,
                                                       fontSize, fontStyle, fontWeight, color, fontFamily, font_align) {
-        color = color || this.track[ob_scene_index](new THREE.Color("rgb(114, 171, 173)"));
-        let ob_sprite = this.track[ob_scene_index](new SpriteText(text, 10));
+        color = color || new THREE.Color("rgb(114, 171, 173)");
+        let ob_sprite = new SpriteText(text, 10);
         ob_sprite.color = color;
         ob_sprite.fontFamily = fontFamily;
         ob_sprite.textHeight = parseInt(fontSize);
@@ -300,6 +300,7 @@ function OB_HYPERGRAPH(models) {
         if (mesh !== undefined) {
             mesh.add(ob_sprite);
         }
+        return ob_sprite;
     };
 
     OB_HYPERGRAPH.prototype.createTextMesh = function (mesh, font, material) {
